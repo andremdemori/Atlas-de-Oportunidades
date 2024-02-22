@@ -7,6 +7,6 @@ The **Atlas of Opportunities - Brazil** is coordenated by the Federal University
 
 # Running the Atlas
 
-See the [project documentation][text](https://gitlab.com/andredemori/atlas-of-opportunity/-/tree/main/docs) for full setup instructions.
+See the [project documentation](https://gitlab.com/andredemori/atlas-of-opportunity/-/tree/main/docs) for full setup instructions.
 
 The recommended way to run the Atlas is via Docker Compose. For instructions on how to run each service locally, see their respective README files.
