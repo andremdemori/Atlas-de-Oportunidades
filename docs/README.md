@@ -11,7 +11,7 @@ The Atlas is dockerized software, meaning its services can be built and deployed
 The Atlas is configured to run in a development environment by default. To start a server with a default dataset, simply checkout the code from its repo on GitHub and build and run the project's default Docker Compose configuration:
 
 ```
-git clone https://github.com/gpmc-lab-ufrgs/atlas-of-opportunity.git
+git clone https://gitlab.com/andredemori/atlas-of-opportunity.git
 cd atlas-of-opportunity
 git submodule update --init --recursive 
 ```
@@ -27,7 +27,7 @@ yarn
 yarn start
 ```
 
-To full instructions see the README file in [atlas-backend](https://github.com/gpmc-lab-ufrgs/atlas-backend/tree/189baf86ac397cda9270fd62e391ae8d928c7334) and atlas-[front-end](https://github.com/gpmc-lab-ufrgs/atlas/tree/007c87577fc5197bcea74f307d29e96db2ddb123) repository.
+To full instructions see the README file in [atlas-backend](https://gitlab.com/andredemori/atlas-of-opportunity/-/tree/main/atlas-backend?ref_type=heads) and atlas-[front-end](https://gitlab.com/andredemori/atlas-of-opportunity/-/tree/main/atlas-frontend?ref_type=heads) repository.
 
 Building the Docker images only needs to happen once but will likely take several minutes to complete. Running the project for the first time includes database imports, precomputation of some models, and compilation of the frontend for development mode which will also likely take several minutes.
 
