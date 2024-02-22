@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a52aaf41-c665-4a64-a7be-20a3c92d7118" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/atlas-backend" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/data/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/data/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/district/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/district/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/district/management/commands/cnae_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/district/management/commands/cnae_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/district/management/commands/tabela-cnaes.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/district/management/commands/tabela-cnaes.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/district/management/commands/tabela-cnaes_en.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/district/management/commands/tabela-cnaes_en.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/district/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/district/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-backend/upload/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-backend/upload/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-frontend" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-frontend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atlas-frontend/src/components/Modal/LoadData/LoadData.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/atlas-frontend/src/components/Modal/LoadData/LoadData.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2VdAQ3PNXNgGq05LQifysnBOuio" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/demori/PycharmProjects/atlas-of-opportunity"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a52aaf41-c665-4a64-a7be-20a3c92d7118" name="Changes" comment="" />
+      <created>1695155564192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695155564192</updated>
+    </task>
+    <servers />
+  </component>
+</project>
